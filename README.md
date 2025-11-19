@@ -1,9 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=speech&text=LordMarshy&fontAlign=30&fontSize=30&desc=Welcome%20To%20My%20Profile&descAlign=60&descAlignY=50&theme=radical)
+## Hi I'm Lord Marshy
 
-### Hi there, I'm Lord Marshy - Guy
+I'm a Front-End Developer based in London. I started my coding journey 20 months ago and have 5 months of commercial experience working at a PropTech startup.  
 
-I'm a Front-End Developer based in London, I started this journey 20 months ago. With 5 months of commercial experiance workin g at a PropTech startup.
-I love solving problems and turning ideas into reality using code.  
+I'm currently learning back-end development and plan to transition into full-stack development soon.  
+
+I love solving problems and turning ideas into reality with code.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guymarshman)
 
 ---
 
@@ -28,23 +31,31 @@ I love solving problems and turning ideas into reality using code.
 
 **Other:**  
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=agile&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=rest-api&logoColor=white)
+![Command Line](https://img.shields.io/badge/Command_Line-000000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📝 Currently Learning
+- Back-end development  
+- Cloud fundamentals (AWS)  
+- UI design
+- Cybersecurity
+
+---
 
 ### ⚡ Projects & Work
-Here are a few highlights of my work:  
+<details>
+  <summary><strong>Here are a few highlights of my work:  </strong></summary>
+  
 - **iRealty Front-End:** Building dynamic UI components and improving user experience for a prop-tech startup.  
-- **Tap 'O' Matic:** Fun interactive project [link to repo].  
-- **Other web projects:** [GitHub repos link]  
+- **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic):** A React Native TypeScript random number generator app
+- **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App):** A React web app that searches for restaurants using the Yelp API
 
----
+</details>
 
-### 🌱 Currently Learning
-- Advanced React patterns  
-- Cloud fundamentals (AWS)  
-- Improving accessibility and responsive design  
-
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guymarshman)
