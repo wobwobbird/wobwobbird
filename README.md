@@ -55,7 +55,7 @@ I love solving problems and turning ideas into reality with code.
   
 - **iRealty Front-End:** Building dynamic UI components and improving user experience for a prop-tech startup.  
 - **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic):** A React Native TypeScript random number generator app
-  - README includes Expo Go QR code, you can download and view in the Expo Go app
+  - README includes Expo Go QR code, scan then view in the Expo Go app
 - **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App):** A React web app that searches for restaurants using the Yelp API
 
 </details>
