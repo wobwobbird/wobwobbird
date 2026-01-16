@@ -48,10 +48,8 @@ I love solving problems and turning ideas into reality with code.
 ---
 
 ### 📝 Currently Learning
-- Back-end development  
-- Cloud fundamentals (AWS)  
-- UI design
-- Cybersecurity
+- Docker
+- Server security
 
 ---
 
