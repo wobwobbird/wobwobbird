@@ -64,3 +64,7 @@ I love solving problems and turning ideas into reality with code.
 
 </details>
 
+
+![Profile views](https://komarev.com/ghpvc/?username=wobwobbird&style=flat&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=wobwobbird&style=flat&color=orange)
+![Profile views](https://komarev.com/ghpvc/?username=wobwobbird&style=flat&color=blue)
