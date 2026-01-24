@@ -4,9 +4,10 @@ I'm a Front-End Developer based in London. I started my coding journey 20 months
 
 I'm currently learning back-end development and plan to transition into full-stack development soon.  
 
-I love solving problems and turning ideas into reality with code.
+I love building.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guymarshman)
+
 
 ---
 
