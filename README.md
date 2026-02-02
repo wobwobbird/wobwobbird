@@ -1,8 +1,6 @@
 ## Hi I'm Lord Marshy
 
-I'm a Front-End Developer based in London. I started my coding journey 20 months ago and have 5 months of commercial experience working at a PropTech startup.  
-
-I'm currently learning back-end development and plan to transition into full-stack development soon.  
+I'm a Full-Stack Developer based in London. I started my coding 2 years ago and have 9 months of commercial experience working at a PropTech startup.  
 
 I love building.
 
