@@ -53,13 +53,18 @@ I love building.
 ---
 
 ### ⚡ Projects & Work
-<details>
-  <summary><strong>⚡ Projects & Work</strong></summary>
-  
 - **iRealty Front-End:** Building dynamic UI components and improving user experience for a prop-tech startup.  
+- **[Mood_Tracker_CLI](https://github.com/wobwobbird/Tap-O-Matic)** Mental Health Tracker CLI tool, record mood and review results. Uses Ink to create a full screen TUI, saves results in a SQLite database. .  
 - **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic):** A React Native TypeScript random number generator app
   - README includes Expo Go QR code, scan then view in the Expo Go app
 - **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App):** A React web app that searches for restaurants using the Yelp API
+
+---
+
+<details>
+  <summary><strong>...</strong></summary>
+  
+**Hello World**
 
 </details>
 
