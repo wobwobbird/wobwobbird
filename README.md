@@ -1,4 +1,4 @@
-## Hi I'm Lord Marshy
+## Hi I'm Guy
 
 I'm a Full-Stack Developer based in London. I started my coding 2 years ago and have 9 months of commercial experience working at a PropTech startup.  
 
@@ -46,18 +46,29 @@ I love building.
 
 ---
 
-### 📝 Currently Learning
-- Docker
-- Server security
+### ⚡ Projects & Work
+**Hand Coded Projects**
+- **[Mood_Tracker_CLI](https://github.com/wobwobbird/Mood_Tracker)** Mental Health Tracker CLI tool, record mood and review results. Uses Ink to create a full screen TUI, saves results in a SQLite database.
+  - Ink | React | Node.js
+- **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic):** A React Native TypeScript random number generator app
+  - React Native | Expo
+  - README includes Expo Go QR code, scan then view in the Expo Go app
+
+**AI Assisted Projects**
+- **[Time_Blocks](https://github.com/wobwobbird/Time_Blocks):** Time Blocks Logger is a small time-tracking app: log time by category (e.g. Coding, Learning, Game Dev), see daily and weekly totals, and enforce a 24-hour-per-day limit so you can’t over-log a single day.
+  - Next.js | React Admin | Prisma | Supabase
+
+**Learning Projects**
+- **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App):** A React web app that searches for restaurants using the Yelp API
+
+**Commercial Projects**
+- **iRealty Front-End:** Building dynamic UI components and improving user experience for a prop-tech startup.  
 
 ---
 
-### ⚡ Projects & Work
-- **iRealty Front-End:** Building dynamic UI components and improving user experience for a prop-tech startup.  
-- **[Mood_Tracker_CLI](https://github.com/wobwobbird/Mood_Tracker)** Mental Health Tracker CLI tool, record mood and review results. Uses Ink to create a full screen TUI, saves results in a SQLite database. .  
-- **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic):** A React Native TypeScript random number generator app
-  - README includes Expo Go QR code, scan then view in the Expo Go app
-- **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App):** A React web app that searches for restaurants using the Yelp API
+### 📝 Currently Learning
+- AI Chatbots
+- Docker
 
 ---
 
