@@ -75,13 +75,13 @@ I love building!
   Also used: React Admin | Supabase
 
 **Learning Projects**
-- **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App):**  
+- **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App)**  
   A React web app that searches for restaurants using the Yelp API  
   This was a project for the 'skill path Create a Front-End App with React' on Codecademy.com  
   [![My Skills](https://skillicons.dev/icons?i=javascript,react)](https://skillicons.dev)  
 
 **Commercial Work**
-- **iRealty Front-End:**  
+- **iRealty Front-End**  
   Worked as a Junior Front-End Developer at the PropTech startup  
   Converted the customer facing CRM to tablet and mobile responsive, and built a customer support pannel available across the app  
   Built property filtering, comparison tools, and multilingual support (Catalan/French)  
