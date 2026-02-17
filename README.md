@@ -1,4 +1,4 @@
-## Hi I'm Guy
+# Hi I'm Guy
 
 I'm a Full-Stack Developer based in London. I started my coding 2 years ago and have 9 months of commercial experience working at a PropTech startup.  
 
@@ -9,7 +9,7 @@ I love building.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 **Languages:**  
 <picture><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></picture>
@@ -46,39 +46,46 @@ I love building.
 
 ---
 
-### ⚡ Projects & Work
+## ⚡ Projects & Work
 **Hand Coded Projects**
 
 - **[Mood_Tracker_CLI](https://github.com/wobwobbird/Mood_Tracker)**  
   Mental Health Tracker CLI tool, record mood and review results. Uses Ink to create a full screen TUI, saves results in a SQLite database.  
-  [![My Skills](https://skillicons.dev/icons?i=react,nodejs,javascript)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,sqlite,react)](https://skillicons.dev)  
   Also used: Ink
  
-- **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic):**  
+- **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic)**  
   A React Native TypeScript random number generator app.  
-  [![My Skills](https://skillicons.dev/icons?i=react,typescript)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=typescript,react)](https://skillicons.dev)  
   Also used: React Native | Expo  
   README includes Expo Go QR code, scan then view in the Expo Go app
     
-- **[Super Connect](https://github.com/wobwobbird/Super-Connect-Game):**  
+- **[Super Connect](https://github.com/wobwobbird/Super-Connect-Game)**  
   A two-player turn-based Connect 4–style game built in Unity 6 (URP). Get four in a row: horizontally, vertically, or diagonally to win. Full game with start scene, player naming, scoring, winning screen, music control, 3D background and animations.  
-  [![My Skills](https://skillicons.dev/icons?i=unity,cs)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
 **AI Assisted Projects**
-- **[Time_Blocks](https://github.com/wobwobbird/Time_Blocks):**
+- **[Time_Blocks](https://github.com/wobwobbird/Time_Blocks)**  
   Time Blocks Logger is a small time-tracking app: log time by category (e.g. Coding, Learning, Game Dev), see daily and weekly totals, and enforce a 24-hour-per-day limit so you can’t over-log a single day.  
-  [![My Skills](https://skillicons.dev/icons?i=nextjs,prisma,javascript)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=javascript,nextjs,prisma,postgres)](https://skillicons.dev)  
   Also used: React Admin | Supabase
 
 **Learning Projects**
-- **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App):** A React web app that searches for restaurants using the Yelp API
+- **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App):**  
+  A React web app that searches for restaurants using the Yelp API  
+  This was a project for the skill path Create a Front-End App with React on Codecademy.com  
+  [![My Skills](https://skillicons.dev/icons?i=javascript,react)](https://skillicons.dev)  
 
-**Commercial Projects**
-- **iRealty Front-End:** Building dynamic UI components and improving user experience for a prop-tech startup.  
+**Commercial Work**
+- **iRealty Front-End:**  
+  Worked as a Junior Front-End Developer at the PropTech startup  
+  Converted the customer facing CRM to tablet and mobile responsive, and built a customer support pannel available across the app  
+  Built property filtering, comparison tools, and multilingual support (Catalan/French) 
+  [![My Skills](https://skillicons.dev/icons?i=javascript,react,redux,css,sass,tailwind)](https://skillicons.dev)  
 
 ---
 
-### 📝 Currently Learning
+## 📝 Currently Learning
 - AI Chatbots
 - Docker
 
@@ -87,7 +94,7 @@ I love building.
 <details>
   <summary><strong>...</strong></summary>
   
-**Hello World**
+**Hello World!**
 
 </details>
 
