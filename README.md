@@ -1,8 +1,12 @@
-# Hi I'm Guy
+# Hi I'm Guy - Junior Full-Stack Developer
 
 I'm a Full-Stack Developer based in London. I started my coding 2 years ago and have 9 months of commercial experience working at a PropTech startup.  
 
-I love building.
+I've been focusing on back-end recently and have touched areas such as: node.js, servers, express.js, server authentication, databases, sqlite, postgres.
+
+```
+I love building!
+```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guymarshman)
 
@@ -73,14 +77,14 @@ I love building.
 **Learning Projects**
 - **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App):**  
   A React web app that searches for restaurants using the Yelp API  
-  This was a project for the skill path Create a Front-End App with React on Codecademy.com  
+  This was a project for the 'skill path Create a Front-End App with React' on Codecademy.com  
   [![My Skills](https://skillicons.dev/icons?i=javascript,react)](https://skillicons.dev)  
 
 **Commercial Work**
 - **iRealty Front-End:**  
   Worked as a Junior Front-End Developer at the PropTech startup  
   Converted the customer facing CRM to tablet and mobile responsive, and built a customer support pannel available across the app  
-  Built property filtering, comparison tools, and multilingual support (Catalan/French) 
+  Built property filtering, comparison tools, and multilingual support (Catalan/French)  
   [![My Skills](https://skillicons.dev/icons?i=javascript,react,redux,css,sass,tailwind)](https://skillicons.dev)  
 
 ---
@@ -94,7 +98,8 @@ I love building.
 <details>
   <summary><strong>...</strong></summary>
   
-**Hello World!**
+**Hello World!**  
+**LordMarshy**
 
 </details>
 
