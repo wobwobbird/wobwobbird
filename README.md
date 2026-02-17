@@ -49,14 +49,18 @@ I love building.
 ### ⚡ Projects & Work
 **Hand Coded Projects**
 - **[Mood_Tracker_CLI](https://github.com/wobwobbird/Mood_Tracker)** Mental Health Tracker CLI tool, record mood and review results. Uses Ink to create a full screen TUI, saves results in a SQLite database.
-  - Ink | React | Node.js
+  - Ink | React | Node.js | JavaScript
 - **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic):** A React Native TypeScript random number generator app
-  - React Native | Expo
+  - React Native | Expo | TypeScript
   - README includes Expo Go QR code, scan then view in the Expo Go app
+- **[Super Connect](https://github.com/wobwobbird/Super-Connect-Game):** A React Native TypeScript random number generator app
+  - Unity 6 | C#
+  - A two-player turn-based Connect 4–style game built in Unity 6 (URP). Get four in a row: horizontally, vertically, or diagonally to win. Full game with start scene, player naming, scoring, winning screen, music control, 3D background and animations.
+
 
 **AI Assisted Projects**
 - **[Time_Blocks](https://github.com/wobwobbird/Time_Blocks):** Time Blocks Logger is a small time-tracking app: log time by category (e.g. Coding, Learning, Game Dev), see daily and weekly totals, and enforce a 24-hour-per-day limit so you can’t over-log a single day.
-  - Next.js | React Admin | Prisma | Supabase
+  - Next.js | React Admin | Prisma | Supabase | JavaScript
 
 **Learning Projects**
 - **[Ravenous_Restaurant_Search_API_App](https://github.com/wobwobbird/Ravenous_Restaurant_Search_API_App):** A React web app that searches for restaurants using the Yelp API
