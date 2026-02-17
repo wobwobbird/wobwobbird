@@ -96,6 +96,36 @@ I love building!
 ---
 
 <details>
+  <summary><strong>Career Flow Chart</strong></summary>
+  
+```mermaid
+graph LR
+A[QS Degree] --> B(Assistant QS)
+B --> C(Digital Marketing)
+C --> D(Sales)
+D --> E(Junior Dev)
+E --> H((Now))
+
+B -- Free time --> F{Ecom Side Business}
+F -- Free time --> D
+D -- Free time --> G{Learning code}
+G -- Free time --> H
+
+A[QS Degree] 
+B(Assistant QS)
+C(Digital Marketing)
+D(Sales)
+ E(Junior Dev)
+ H((Now))
+F{Ecom Side Business}
+G{Learning code}
+
+```
+
+
+</details>
+
+<details>
   <summary><strong>...</strong></summary>
   
 **Hello World!**  
@@ -107,3 +137,6 @@ I love building!
 ![Profile views](https://komarev.com/ghpvc/?username=wobwobbird&style=flat&color=green)
 ![Profile views](https://komarev.com/ghpvc/?username=wobwobbird&style=flat&color=orange)
 ![Profile views](https://komarev.com/ghpvc/?username=wobwobbird&style=flat&color=blue)
+
+
+
