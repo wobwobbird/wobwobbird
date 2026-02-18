@@ -1,8 +1,8 @@
 # Hi I'm Guy - Junior Full-Stack Developer
 
-I'm a Full-Stack Developer based in London. I started my coding 2 years ago and have 9 months of commercial experience working at a PropTech startup.  
+I’m a Full-Stack Developer based in London with two years of intensive self-driven learning and nine months of commercial experience at a PropTech startup.
 
-I've been focusing on back-end recently and have touched areas such as: node.js, servers, express.js, server authentication, databases, sqlite, postgres.
+Recently, I’ve been focusing more on backend development, working with Node.js, Express, server architecture, authentication, and databases including SQLite and PostgreSQL.
 
 ```
 I love building!
