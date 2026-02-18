@@ -90,8 +90,11 @@ I love building!
 ---
 
 ## 📝 Currently Learning
+
+```yaml
 - AI Chatbots
 - Docker
+```
 
 ---
 
@@ -104,7 +107,7 @@ A[QS Degree] --> B(Assistant QS)
 B --> C(Digital Marketing)
 C --> D(Sales)
 D --> E(Junior Dev)
-E --> H((Now))
+E -- Startup went bust --> H((Now))
 
 B -- Free time --> F{Ecom Side Business}
 F -- Free time --> D
@@ -115,8 +118,8 @@ A[QS Degree]
 B(Assistant QS)
 C(Digital Marketing)
 D(Sales)
- E(Junior Dev)
- H((Now))
+E(Junior Dev)
+H((Now))
 F{Ecom Side Business}
 G{Learning code}
 
