@@ -1,3 +1,5 @@
+[![Hello](assets/hello.gif)](https://wobwobbird.github.io/home)
+
 # Hi I'm Guy - Junior Full-Stack Developer
 
 I’m a Full-Stack Developer based in London with two years of intensive self-driven learning and nine months of commercial experience at a PropTech startup.
