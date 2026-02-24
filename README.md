@@ -1,4 +1,4 @@
-[![Hello](assets/hello.gif)](https://wobwobbird.github.io/home)
+[![Hello](assets/hello.gif)](https://wobwobbird.github.io/ß)
 
 # Hi I'm Guy - Junior Full-Stack Developer
 
