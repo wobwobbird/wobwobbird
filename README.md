@@ -6,6 +6,8 @@ I’m a Full-Stack Developer based in London with two years of intensive self-dr
 
 Recently, I’ve been focusing more on backend development, working with Node.js, Express, server architecture, authentication, and databases including SQLite and PostgreSQL.
 
+I'm working for for a startup as a fullstack developer.
+
 ```
 I love building!
 ```
