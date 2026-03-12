@@ -59,7 +59,7 @@ I love building!
 
 - **[Mood_Tracker_CLI](https://github.com/wobwobbird/Mood_Tracker)**  
   Mental Health Tracker CLI tool, record mood and review results. Uses Ink to create a full screen TUI, saves results in a SQLite database.  
-  <picture>[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,sqlite,react)](https://skillicons.dev)</picture>
+  [![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,sqlite,react)](https://skillicons.dev)  
   `Also used: Ink`  
  
 - **[Tap 'O' Matic](https://github.com/wobwobbird/Tap-O-Matic)**  
@@ -96,6 +96,14 @@ I love building!
 ## 📝 Currently Learning
 
 ```yaml
+- Bun
+- Turborepo
+- Next.js (App Router)
+- Express
+- tRPC
+- Better Auth
+- Prisma
+- Neon
 - AI Chatbots
 - Docker
 ```
