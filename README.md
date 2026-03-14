@@ -119,21 +119,22 @@ A[QS Degree] --> B(Assistant QS)
 B --> C(Digital Marketing)
 C --> D(Sales)
 D --> E(Junior Dev)
-E -- Startup went bust --> H((Now))
-
+E -- Startup went bust --> H((Q4/25 Q1/26))
 B -- Free time --> F{Ecom Side Business}
 F -- Free time --> D
 D -- Free time --> G{Learning code}
-G -- Free time --> H
+H -- Hired --> I(Dev at Start Up)
+G -- Free time --> I
 
 A[QS Degree] 
 B(Assistant QS)
 C(Digital Marketing)
 D(Sales)
 E(Junior Dev)
-H((Now))
 F{Ecom Side Business}
 G{Learning code}
+H((Q4/25 Q1/26))
+I(Dev at Start Up)
 
 ```
 
