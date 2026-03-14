@@ -113,39 +113,46 @@ I love building!
 <details>
   <summary><strong>Career Flow Chart</strong></summary>
   
+  **Hello World!**
+  
 ```mermaid
-graph LR
-A[QS Degree] --> B(Assistant QS)
-B --> C(Digital Marketing)
-C --> D(Sales)
-D --> E(Junior Dev)
-E -- Startup went bust --> H((Q4/25 Q1/26))
-B -- Free time --> F{Ecom Side Business}
-F -- Free time --> D
-D -- Free time --> G{Learning code}
-H -- Hired --> I(Dev at Start Up)
-G -- Free time --> I
+%%{init: {"theme": "base", "themeVariables": {"fontSize": "14px"}} }%%
+flowchart TB
+  %% --- MAIN CAREER PATH ---
+  subgraph MAIN["Main Career Path"]
+    direction TB
+    A["QS Degree"]:::main --> B["Assistant QS"]:::main --> X([Skill Transition]):::transition --> C["Digital Marketing"]:::main --> Z([Skill Transition]):::transition --> D["Sales"]:::main --> Y([Skill Transition]):::transition --> E["Junior Dev"]:::main
+    E --> H["Startup went bust"]:::event --> I["Dev at Start Up"]:::main
+  end
 
-A[QS Degree] 
-B(Assistant QS)
-C(Digital Marketing)
-D(Sales)
-E(Junior Dev)
-F{Ecom Side Business}
-G{Learning code}
-H((Q4/25 Q1/26))
-I(Dev at Start Up)
+  %% --- SIDE ACTIVITIES ---
+  subgraph SIDE["Side Activities"]
+    direction TB
+    F["Ecom Side Business"]:::side
+    G["Learning Code"]:::side
+  end
+
+  %% --- SIDE CONNECTIONS ---
+  B -.->|Free time| F
+  F -.->|Skills influenced| X
+  F -.->|Free time| Z
+  G -.->|Skills influenced| Y
+  Z -.->|Free time| G
+  G -.->|Free time| I
+
+  %% --- STYLES ---
+  %% Node styles
+  classDef main fill:#9ec8ff,stroke:#0056b3,stroke-width:1.5px,color:#000;
+  classDef side fill:#e0e0e0,stroke:#666,stroke-width:1px,color:#333;
+  classDef event fill:#ffd699,stroke:#d98c00,stroke-width:1px,color:#000;
+  classDef transition fill:#d6f5d6,stroke:#00b300,stroke-width:1px,color:#000,stroke-dasharray: 4 2;
+
+  %% Edge styles
+  linkStyle default stroke:#0056b3,stroke-width:2px;
+  linkStyle 7,8,9,10,11,12 stroke:#888,stroke-width:1px,stroke-dasharray:4 2;
+  linkStyle 7,8,9,10,11,12 stroke:#888,stroke-width:1px,stroke-dasharray:4 2;
 
 ```
-
-
-</details>
-
-<details>
-  <summary><strong>...</strong></summary>
-  
-**Hello World!**  
-**LordMarshy**
 
 </details>
 
