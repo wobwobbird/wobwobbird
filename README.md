@@ -121,8 +121,8 @@ flowchart TB
   %% --- MAIN CAREER PATH ---
   subgraph MAIN["Main Career Path"]
     direction TB
-    A["QS Degree"]:::main --> B["Assistant QS"]:::main --> X([Skill Transition]):::transition --> C["Digital Marketing"]:::main --> Z([Skill Transition]):::transition --> D["Sales"]:::main --> Y([Skill Transition]):::transition --> E["Junior Dev"]:::main
-    E --> H["Startup went bust"]:::event --> I["Dev at Start Up"]:::main
+    A["QS Degree"]:::main --> B["Assistant QS"]:::main --> X([Skill Transition]):::transition --> C["Digital Marketing<br>Analyst<br>⬇<br>Manager"]:::main --> Z([Skill Transition]):::transition --> D["Sales"]:::main --> Y([Skill Transition]):::transition --> E["Startup<br><b>Frontend Dev</b>"]:::main
+    E --> H["Startup went bust"]:::event --> I["Start Up<br><b>Fullstack Dev</b>"]:::main
   end
 
   %% --- SIDE ACTIVITIES ---
@@ -149,9 +149,7 @@ flowchart TB
 
   %% Edge styles
   linkStyle default stroke:#0056b3,stroke-width:2px;
-  linkStyle 7,8,9,10,11,12 stroke:#888,stroke-width:1px,stroke-dasharray:4 2;
-  linkStyle 7,8,9,10,11,12 stroke:#888,stroke-width:1px,stroke-dasharray:4 2;
-
+  linkStyle 9,11,13,14 stroke:#888,stroke-width:1px,stroke-dasharray:4 2;
 ```
 
 </details>
