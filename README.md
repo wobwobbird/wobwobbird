@@ -1,6 +1,16 @@
-[![Hello](assets/hello.gif)](https://wobwobbird.github.io/)
+<p align="center">
+  <a href="https://wobwobbird.github.io/">
+    <img src="assets/hello.gif" alt="Hello" />
+  </a>
+</p>
 
-# Hi I'm Guy - Full-Stack Developer
+<div align="center" style="width: 320px;">
+  
+  # Hi I'm Guy - Full-Stack Developer
+  
+</div>
+
+
 
 I’m a Full-Stack Developer based in London with two years of intensive self-driven learning and nine months of commercial experience at a PropTech startup.
 
@@ -8,9 +18,9 @@ Recently, I’ve been focusing more on backend development, working with Node.js
 
 I'm working for for a startup as a fullstack developer.
 
-```
-I love building!
-```
+<div align="center" style="width: 320px;">
+  <pre style="display: inline-block; max-width: 320px; margin: 0; text-align: left;"><code>I love building!</code></pre>
+</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guymarshman)
 
@@ -73,6 +83,11 @@ I love building!
   [![My Skills](https://skillicons.dev/icons?i=cs,unity)](https://skillicons.dev)
 
 **AI Assisted Projects**
+- **[Git Proof](https://github.com/wobwobbird/gitproof)**  
+  Issue **developer proofs** for a GitHub username: attach projects (repo URL, optional live link, verified/revoked status, checklist flags), store them in **Neon** (serverless Postgres) via Prisma, and share a read-only public **`/proof/[id]`** page. Admin UI under **`/admin`**; frosted shell, App Router, server actions.  
+  [![My Skills](https://skillicons.dev/icons?i=bun,typescript,nextjs,react,prisma,postgres,tailwind)](https://skillicons.dev)  
+  `Also used: Neon`
+
 - **[Time_Blocks](https://github.com/wobwobbird/Time_Blocks)**  
   Time Blocks Logger is a small time-tracking app: log time by category (e.g. Coding, Learning, Game Dev), see daily and weekly totals, and enforce a 24-hour-per-day limit so you can’t over-log a single day.  
   [![My Skills](https://skillicons.dev/icons?i=javascript,nextjs,prisma,postgres)](https://skillicons.dev)  
