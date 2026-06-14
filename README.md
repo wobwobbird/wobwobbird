@@ -121,6 +121,8 @@ I'm working for for a startup as a fullstack developer.
   Built property filtering, comparison tools, and multilingual support (Catalan/French)  
   [![My Skills](https://skillicons.dev/icons?i=javascript,react,redux,css,sass,tailwind)](https://skillicons.dev)  
 
+- **Sownd Affects**
+
 ---
 
 ## 📝 Currently Learning
