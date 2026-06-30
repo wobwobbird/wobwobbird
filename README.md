@@ -119,11 +119,11 @@ I'm working for for a startup as a fullstack developer.
   Worked as a Junior Front-End Developer at the PropTech startup  
   Converted the customer facing CRM to tablet and mobile responsive, and built a customer support pannel available across the app  
   Built property filtering, comparison tools, and multilingual support (Catalan/French)  
-  [![My Skills](https://skillicons.dev/icons?i=javascript,react,redux,css,sass,tailwind)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,javascript,react,redux,css,sass,tailwind)](https://skillicons.dev)  
 
 - **Sownd Affects**  
 
-  Working as a Full-Stack Developer building an internal certification platform for acoustic project workflows.  
+  Working as a Full-Stack Product Developer building an internal certification platform for acoustic project workflows.  
   Developing a system that ingests certificates, stores structured data in a database, displays records in a React admin panel, generates QR codes, and links public users to certificate verification pages.  
   Working across backend architecture, authentication, database design, admin tooling, and frontend product features.  
   [![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,express,postgres,sqlite,prisma,tailwind,vercel,aws,figma,bun)](https://skillicons.dev)  
