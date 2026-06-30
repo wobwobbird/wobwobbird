@@ -126,7 +126,7 @@ I'm working for for a startup as a fullstack developer.
   Working as a Full-Stack Developer building an internal certification platform for acoustic project workflows.  
   Developing a system that ingests certificates, stores structured data in a database, displays records in a React admin panel, generates QR codes, and links public users to certificate verification pages.  
   Working across backend architecture, authentication, database design, admin tooling, and frontend product features.  
-  [![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,express,postgres,sqlite,prisma,tailwind,vercel)](https://skillicons.dev)  
+  [![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs,express,postgres,sqlite,prisma,tailwind,vercel,aws,figma,bun)](https://skillicons.dev)  
 
 ---
 
